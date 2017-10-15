@@ -1,3 +1,5 @@
 [submodule "AnalyzingHotSpotCrashes"]
 	path = AnalyzingHotSpotCrashes
 	url = https://github.com/simonis/AnalyzingHotSpotCrashes.git
+[submodule "AnalyzingHotSpotCrashes.GeeCON2017"]
+	branch = GeeCON2017
